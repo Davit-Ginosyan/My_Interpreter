@@ -1,0 +1,38 @@
+10 x :
+print 11 :
+10 y - 15 :
+x - 25 :
+10 z :
+enter z :
+
+print y ~ z :
+10 o :
+o - y $ z :
+print o :
+
+10.0 w - 3.14 :
+10.0 e - 5.36 :
+10.0 r :
+r - w ^ e :
+print r :
+
+abc a - D :
+abc b :
+b - av :
+abc c :
+enter c :
+b - b ^ c :
+print a ^ b :
+
+bul bu - 0 :
+bul bl - 1 :
+print bu ^ bl :
+
+rot 10 k - 0 : k <= 2 : + k <
+print 13  >
+rot 10 j - 0 : j << z : + j <
+con j = 2 < print 47 > >
+rot 10 t - 3 : t >> 0 : - t <
+print 25 >
+rot 10 d - 4 : d >= 0 : - t <
+con d = 3 < print 0 > > 
